@@ -1,22 +1,49 @@
 main:
+  - title: "InstructFLIP: Exploring Unified Vision-Language Model for Face Anti-spoofing"
+    authors: <strong>Kun-Hsiang Lin</strong>, Yu-Wen Tseng, Kang-Yang Huang, Jhih-Ciang Wu, Wen-Huang Cheng* (*Corresponding authors)
+    conference_short: ACM MM
+    conference: ACM International Conference on Multimedia (MM), 2025
+    # pdf: https://arxiv.org/pdf/2306.00988.pdf
+    code: https://github.com/kunkunlin1221/InstructFLIP/tree/main
+    image: ./assets/img/2025_instructflip.jpg
+    # notes: Oral presentation
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "Predictor selection method for the construction of SVM-based typhoon rainfall forecasting models using a non-dominated sorting genetic algorithm."
+    authors: Tao-Chang Yang, Pao-Shan Yu*, <strong>Kun-Hsiang Lin</strong>, Chen-Min Kuo, Hung-Wei Tseng (*Corresponding authors)
+    conference_short: MA
+    conference: Meteorological Applications, October 2018, Vol. 25, pp. 510–522.
+    pdf: https://rmets.onlinelibrary.wiley.com/doi/epdf/10.1002/met.1717
+    image: ./assets/img/2018_predictor_selection_method.jpg
+    notes: SCI Journal
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "A Comparison of Random Forests and Support Vector Machine in River Stage Forecasting."
+    authors: Pei-Yu Wu, <strong>Kun-Hsiang Lin</strong>
+    conference_short: AOGS
+    conference: Asia Oceania Geosciences Society (AOGS) Annual Meeting, 2017
+    image: ./assets/img/2017_aogs.jpg
+    pdf: ./assets/files/2017_aogs.pdf
+    notes: Poster presentation
+
+  - title: "A Comparison of Hourly Typhoon Rainfall Forecasting Models Based on Support Vector Machines and Random Forests with Different Predictor Sets."
+    authors: <strong>Kun-Hsiang Lin</strong>, Hung-Wei Tseng, Chen-Min Kuo, Tao-Chang Yang, Pao-Shan Yu* (*Corresponding authors)
+    conference_short: EGU
+    conference: European Geosciences Union, 2016
+    pdf: ./assets/files/2016_egu.pdf
+    image: ./assets/img/2016_egu.jpg
+    notes: Oral presentation
+
+  - title: "A Comparison of Random Forests and Support Vector Machine in River Stage Forecasting"
+    authors: <strong>Kun-Hsiang Lin</strong>, Hung-Wei Tseng, Chen-Min Kuo, Tao-Chang Yang, Pao-Shan Yu* (*Corresponding authors)
+    conference_short: AOGS
+    conference: Asia Oceania Geosciences Society (AOGS) Annual Meeting, 2015
+    pdf: ./assets/files/2015_aogs.pdf
+    image: ./assets/img/2015_aogs.jpg
+    notes: Oral presentation
+
+  - title: "Application of Random Forest and Support Vector Machine in Rainfall and River Stage Forecasting"
+    authors: <strong>Kun-Hsiang Lin</strong>, Hung-Wei Tseng, Chen-Min Kuo, Tao-Chang Yang, Pao-Shan Yu* (*Corresponding authors)
+    conference_short: CCACHE
+    conference: Conference on Computer Applications in Civil and Hydraulic Engineering, 2015
+    image: ./assets/img/2015_CCACHE.jpg
+    pdf: ./assets/files/2015_CCACHE.pdf
+    notes: Oral presentation, Best student paper award

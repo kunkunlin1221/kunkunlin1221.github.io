@@ -1,0 +1,14 @@
+main:
+  - title: "Capybara: Computer Vision and ONNX Inference Toolkit"
+    authors: <strong>Kun-Hsiang Lin</strong>*, Ze Yuan* (* means equal contribution)
+    code: https://github.com/DocsaidLab/Capybara
+    image: ./assets/img/capybara.webp
+    pypi: https://pypi.org/project/capybara-docsaid/
+    # notes: Image processing and useful toolkit written in Python
+
+  - title: "Chameleon: Advanced Toolbox for PyTorch Development"
+    authors: <strong>Kun-Hsiang Lin</strong>*, Ze Yuan* (* means equal contribution)
+    code: https://github.com/DocsaidLab/Chameleon
+    image: ./assets/img/chameleon.webp
+    pypi: https://pypi.org/project/chameleon-docsaid/
+    # notes: Deep learning module based on PyTorch

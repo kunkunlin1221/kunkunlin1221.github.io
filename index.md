@@ -11,13 +11,17 @@ I then spent over 5 years in industry at Authme as an AI Team Lead and CV/ML Eng
 ## Research Interests
 
 - **Computer Vision**: Image recognition, object detection, image segmentation, video understanding, and anomaly detection.
-- **Biometric AI**: Face recognition, face anti-spoofing, fraud detection, and deepfake detection.
 - **Deep Learing**: Domain generalization, self-supervised learning, vision-language models (VLMs), multimodal large language models (MLLMs), image-text matching, multimodal pretraining, knowledge distillation, model compression, and transfer learning.
+- **Biometric AI**: Face recognition, face anti-spoofing, fraud detection, and deepfake detection.
 
 ## News
 
-- **[Jul. 2025]** Our paper about Face anti-spoofing with VLMs is accepted to ACM Multimedia 2025.
+- **[Jul. 2025]** Our paper on face anti-spoofing with vision-language models (VLMs) has been accepted to ACM Multimedia 2025.
 
 {% include_relative _includes/publications.md %}
+
+{% include_relative _includes/projects.md %}
+
+<!-- {% include_relative _includes/projects.md %} -->
 
 <!-- {% include_relative _includes/services.md %} -->
