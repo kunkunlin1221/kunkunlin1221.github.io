@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I’m a Ph.D. student at National Taiwan University, part of the AIMM group in the Communication and Multimedia Lab (CMLab), advised by Prof. Wen-Huang Cheng. My academic journey began with traditional machine learning techniques like SVMs and decision trees for rainfall forecasting during my master’s. I later worked at Academia Sinica on spatial-temporal modeling with deep learning and supported paper reviews for top-tier ML conferences.
+I’m a Ph.D. student at National Taiwan University, part of the [AIMM](https://aimm.cmlab.csie.ntu.edu.tw/activity.html#) group in the Communication and Multimedia Lab ([CMLab](https://www.cmlab.csie.ntu.edu.tw/new_cml_website/cml.php?id=activities_announcements)), advised by Prof. [Wen-Huang Cheng](https://www.csie.ntu.edu.tw/~wenhuang/). My academic journey began with traditional machine learning techniques like support vector machines and random forests for rainfall forecasting during my master’s. I later worked at Academia Sinica on spatial-temporal modeling with deep learning and supported paper reviews for top-tier ML conferences.
 
 I then spent over 5 years in industry at Authme as an AI Team Lead and CV/ML Engineer, where I led the development of end-to-end AI solutions for biometric security, OCR, and fraud detection—covering algorithm design, C++ SDKs, cloud infrastructure, and MLOps. My work has earned top rankings in international challenges such as CVPR, ICCV, and NIST FRTE. Currently, I’m expanding my research into vision-language models (VLMs) and multimodal large language models (MLLMs).
 

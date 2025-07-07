@@ -5,6 +5,7 @@ main:
     conference: ACM International Conference on Multimedia (MM), 2025
     # pdf: https://arxiv.org/pdf/2306.00988.pdf
     code: https://github.com/kunkunlin1221/InstructFLIP/tree/main
+    page: https://kunkunlin1221.github.io/InstructFLIP/
     image: ./assets/img/2025_instructflip.jpg
     # notes: Oral presentation
 
