@@ -1,20 +1,20 @@
 main:
   - title: "Capybara: Python toolkit for computer vision task"
-    authors: <strong>Kun-Hsiang Lin</strong>*, Ze Yuan* (* equal contribution)
+    authors: <strong>Kun-Hsiang Lin</strong>, Ze Yuan (equal contribution)
     code: https://github.com/DocsaidLab/Capybara
     image: ./assets/img/capybara.webp
     pypi: https://pypi.org/project/capybara-docsaid/
     # notes: Image processing and useful toolkit written in Python
 
   - title: "Chameleon: Python toolkit for developing AI models"
-    authors: <strong>Kun-Hsiang Lin</strong>*, Ze Yuan* (* equal contribution)
+    authors: <strong>Kun-Hsiang Lin</strong>, Ze Yuan (equal contribution)
     code: https://github.com/DocsaidLab/Chameleon
     image: ./assets/img/chameleon.webp
     pypi: https://pypi.org/project/chameleon-docsaid/
     # notes: Deep learning module based on PyTorch
 
   - title: "DocClassifier: Document image classification system"
-    authors: <strong>Kun-Hsiang Lin</strong>*, Ze Yuan* (* equal contribution)
+    authors: <strong>Kun-Hsiang Lin</strong>, Ze Yuan (equal contribution)
     code: https://github.com/DocsaidLab/DocClassifier
     image: ./assets/img/docclassifier.jpg
     # notes: Deep learning module based on PyTorch
