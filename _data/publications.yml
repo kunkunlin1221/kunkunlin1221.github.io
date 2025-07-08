@@ -7,6 +7,7 @@ main:
     code: https://github.com/kunkunlin1221/InstructFLIP/tree/main
     page: https://kunkunlin1221.github.io/InstructFLIP/
     image: ./assets/img/2025_instructflip.jpg
+    bibtex: 
     # notes: Oral presentation
 
   - title: "Predictor selection method for the construction of SVM-based typhoon rainfall forecasting models using a non-dominated sorting genetic algorithm."

@@ -24,6 +24,12 @@
       {% if link.pypi %}
       <a href="{{ link.pypi }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Pypi</a>
       {% endif %}
+      {% if link.pdf %}
+      <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      {% endif %}
+      {% if link.slide %}
+      <a href="{{ link.slide }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slide</a>
+      {% endif %}
       {% if link.code %}
       <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       {% endif %}

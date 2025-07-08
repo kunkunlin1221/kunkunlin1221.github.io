@@ -28,3 +28,12 @@ main:
     code: https://github.com/DocsaidLab/FaceDetection
     image: ./assets/img/face_detection.jpg
     # notes: Deep learning module based on PyTorch
+
+  - title: "Taiwan-LLM Tutor: Revolutionizing Taiwanese Secondary Education with Large Language Model."
+    authors: Jia-Wei Liao, Ji-Jia Wu, <strong>Kun-Hsiang Lin</strong>, and Kang-Yang Huang.
+    conference_short: ADL
+    conference: Applied Deep Learning Final Project, 2023
+    code: https://github.com/jwliao1209/TWLLM-Tutor
+    pdf: assets/files/twllm_tutor_report.pdf
+    slide: assets/files/twllm_tutor_slide.pdf
+    image: ./assets/img/twllm_tutor.png
