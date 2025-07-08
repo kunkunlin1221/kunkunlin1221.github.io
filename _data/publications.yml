@@ -18,7 +18,7 @@ main:
     notes: SCI Journal
 
   - title: "A Comparison of Random Forests and Support Vector Machine in River Stage Forecasting."
-    authors: Pei-Yu Wu, <strong>Kun-Hsiang Lin</strong>
+    authors: Pei-Yu Wu*, <strong>Kun-Hsiang Lin</strong> (*Corresponding authors)
     conference_short: AOGS
     conference: Asia Oceania Geosciences Society (AOGS) Annual Meeting, 2017
     image: ./assets/img/2017_aogs.jpg
