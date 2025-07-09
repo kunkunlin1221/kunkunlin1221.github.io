@@ -5,6 +5,7 @@ main:
     code: https://github.com/DocsaidLab/Capybara
     image: ./assets/img/capybara.webp
     pypi: https://pypi.org/project/capybara-docsaid/
+    page: https://docsaid.org/docs/capybara/
     # notes: Image processing and useful toolkit written in Python
 
   - title: "Chameleon: Python toolkit for developing AI models"
@@ -20,6 +21,7 @@ main:
     conference_short: GitHub
     code: https://github.com/DocsaidLab/DocClassifier
     image: ./assets/img/docclassifier.jpg
+    page: https://docsaid.org/docs/docclassifier/
     # notes: Deep learning module based on PyTorch
 
   - title: "FaceDetection: Face Detection with PyTorch"
