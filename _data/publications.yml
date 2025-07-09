@@ -2,7 +2,7 @@ main:
   - title: "InstructFLIP: Exploring Unified Vision-Language Model for Face Anti-spoofing"
     authors: <strong>Kun-Hsiang Lin</strong>, Yu-Wen Tseng, Kang-Yang Huang, Jhih-Ciang Wu, Wen-Huang Cheng* (*Corresponding authors)
     conference_short: ACM MM
-    conference: ACM International Conference on Multimedia (MM), 2025
+    conference: ACM International Conference on Multimedia (MM), Oct. 2025
     # pdf: https://arxiv.org/pdf/2306.00988.pdf
     code: https://github.com/kunkunlin1221/InstructFLIP/tree/main
     page: https://kunkunlin1221.github.io/InstructFLIP/
@@ -10,10 +10,10 @@ main:
     bibtex:
     # notes: Oral presentation
 
-  - title: "Predictor selection method for the construction of SVM-based typhoon rainfall forecasting models using a non-dominated sorting genetic algorithm."
+  - title: "Predictor selection method for the construction of SVM-based typhoon rainfall forecasting models using a non-dominated sorting genetic algorithm"
     authors: Tao-Chang Yang, Pao-Shan Yu*, <strong>Kun-Hsiang Lin</strong>, Chen-Min Kuo, Hung-Wei Tseng (*Corresponding authors)
     conference_short: MA
-    conference: Meteorological Applications, October 2018, Vol. 25, pp. 510–522.
+    conference: Meteorological Applications, Oct. 2018, Vol. 25, pp. 510–522
     pdf: https://rmets.onlinelibrary.wiley.com/doi/epdf/10.1002/met.1717
     image: ./assets/img/2018_predictor_selection_method.jpg
     notes: SCI Journal
@@ -21,31 +21,31 @@ main:
   - title: "An Acceptable Framework to Predict the Flood Stage Under Climate Change Scenarios - A Case Study in Taipei Basin"
     authors: Pei-Yu Wu*, <strong>Kun-Hsiang Lin</strong> (*Corresponding authors)
     conference_short: AOGS
-    conference: Asia Oceania Geosciences Society Annual Meeting (AOGS), 2017
+    conference: Asia Oceania Geosciences Society Annual Meeting (AOGS), Jul. 2017
     image: ./assets/img/2017_aogs.jpg
     pdf: ./assets/files/2017_aogs.pdf
     notes: Poster presentation
 
-  - title: "A Comparison of Hourly Typhoon Rainfall Forecasting Models Based on Support Vector Machines and Random Forests with Different Predictor Sets."
+  - title: "A Comparison of Hourly Typhoon Rainfall Forecasting Models Based on Support Vector Machines and Random Forests with Different Predictor Sets"
     authors: <strong>Kun-Hsiang Lin</strong>, Hung-Wei Tseng, Chen-Min Kuo, Tao-Chang Yang, Pao-Shan Yu* (*Corresponding authors)
     conference_short: EGU
-    conference: European Geosciences Union (EGU), 2016
+    conference: European Geosciences Union (EGU), Apr. 2016
     pdf: ./assets/files/2016_egu.pdf
     image: ./assets/img/2016_egu.jpg
-    notes: Oral presentation
-
-  - title: "A Comparison of Random Forests and Support Vector Machine in River Stage Forecasting"
-    authors: <strong>Kun-Hsiang Lin</strong>, Hung-Wei Tseng, Chen-Min Kuo, Tao-Chang Yang, Pao-Shan Yu* (*Corresponding authors)
-    conference_short: AOGS
-    conference: Asia Oceania Geosciences Society Annual Meeting (AOGS), 2015
-    pdf: ./assets/files/2015_aogs.pdf
-    image: ./assets/img/2015_aogs.jpg
     notes: Oral presentation
 
   - title: "Application of Random Forest and Support Vector Machine in Rainfall and River Stage Forecasting"
     authors: <strong>Kun-Hsiang Lin</strong>, Hung-Wei Tseng, Chen-Min Kuo, Tao-Chang Yang, Pao-Shan Yu* (*Corresponding authors)
     conference_short: CCACHE
-    conference: Conference on Computer Applications in Civil and Hydraulic Engineering (CCACHE), 2015
+    conference: Conference on Computer Applications in Civil and Hydraulic Engineering (CCACHE), Sep. 2015
     image: ./assets/img/2015_CCACHE.jpg
     pdf: ./assets/files/2015_CCACHE.pdf
     notes: Oral presentation, Best student paper award
+
+  - title: "A Comparison of Random Forests and Support Vector Machine in River Stage Forecasting"
+    authors: <strong>Kun-Hsiang Lin</strong>, Hung-Wei Tseng, Chen-Min Kuo, Tao-Chang Yang, Pao-Shan Yu* (*Corresponding authors)
+    conference_short: AOGS
+    conference: Asia Oceania Geosciences Society Annual Meeting (AOGS), Jul. 2015
+    pdf: ./assets/files/2015_aogs.pdf
+    image: ./assets/img/2015_aogs.jpg
+    notes: Oral presentation
