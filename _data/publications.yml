@@ -7,7 +7,7 @@ main:
     code: https://github.com/kunkunlin1221/InstructFLIP/tree/main
     page: https://kunkunlin1221.github.io/InstructFLIP/
     image: ./assets/img/2025_instructflip.jpg
-    bibtex: 
+    bibtex:
     # notes: Oral presentation
 
   - title: "Predictor selection method for the construction of SVM-based typhoon rainfall forecasting models using a non-dominated sorting genetic algorithm."
@@ -18,7 +18,7 @@ main:
     image: ./assets/img/2018_predictor_selection_method.jpg
     notes: SCI Journal
 
-  - title: "A Comparison of Random Forests and Support Vector Machine in River Stage Forecasting."
+  - title: "An Acceptable Framework to Predict the Flood Stage Under Climate Change Scenarios - A Case Study in Taipei Basin"
     authors: Pei-Yu Wu*, <strong>Kun-Hsiang Lin</strong> (*Corresponding authors)
     conference_short: AOGS
     conference: Asia Oceania Geosciences Society Annual Meeting (AOGS), 2017
