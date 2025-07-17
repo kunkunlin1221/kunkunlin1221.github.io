@@ -3,9 +3,9 @@ main:
     authors: <strong>Kun-Hsiang Lin</strong>, Yu-Wen Tseng, Kang-Yang Huang, Jhih-Ciang Wu, Wen-Huang Cheng* (*Corresponding authors)
     conference_short: ACM MM
     conference: ACM International Conference on Multimedia (MM), Oct. 2025
-    # pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/kunkunlin1221/InstructFLIP/tree/main
-    page: https://kunkunlin1221.github.io/InstructFLIP/
+    pdf: https://arxiv.org/pdf/2507.12060
+    code: https://github.com/kunkunlin1221/InstructFLIP
+    page: https://kunkunlin1221.github.io/InstructFLIP
     image: ./assets/img/2025_instructflip.jpg
     bibtex:
     # notes: Oral presentation
@@ -24,7 +24,7 @@ main:
     conference: Asia Oceania Geosciences Society Annual Meeting (AOGS), Jul. 2017
     image: ./assets/img/2017_aogs.jpg
     pdf: ./assets/files/2017_aogs.pdf
-    notes: Poster presentation
+    # notes: Poster presentation
 
   - title: "A Comparison of Hourly Typhoon Rainfall Forecasting Models Based on Support Vector Machines and Random Forests with Different Predictor Sets"
     authors: <strong>Kun-Hsiang Lin</strong>, Hung-Wei Tseng, Chen-Min Kuo, Tao-Chang Yang, Pao-Shan Yu* (*Corresponding authors)
