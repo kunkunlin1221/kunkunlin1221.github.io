@@ -26,6 +26,4 @@ For more information, please download my [CV](./assets/files/Resume.pdf).
 
 {% include_relative _includes/projects.md %}
 
-<!-- {% include_relative _includes/projects.md %} -->
-
-<!-- {% include_relative _includes/services.md %} -->
+{% include_relative _includes/services.md %}
