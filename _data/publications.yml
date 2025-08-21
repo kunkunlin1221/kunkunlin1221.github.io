@@ -1,14 +1,14 @@
 main:
   - title: "InstructFLIP: Exploring Unified Vision-Language Model for Face Anti-spoofing"
     authors: <strong>Kun-Hsiang Lin</strong>, Yu-Wen Tseng, Kang-Yang Huang, Jhih-Ciang Wu, Wen-Huang Cheng* (*Corresponding authors)
-    conference_short: ACM MM
+    conference_short: ACMMM
     conference: ACM International Conference on Multimedia (MM), Oct. 2025
     pdf: https://arxiv.org/pdf/2507.12060
     code: https://github.com/kunkunlin1221/InstructFLIP
     page: https://kunkunlin1221.github.io/InstructFLIP
     image: ./assets/img/2025_instructflip.jpg
-    bibtex:
-    # notes: Oral presentation
+    # bibtex:
+    notes: Oral presentation
 
   - title: "Predictor selection method for the construction of SVM-based typhoon rainfall forecasting models using a non-dominated sorting genetic algorithm"
     authors: Tao-Chang Yang, Pao-Shan Yu*, <strong>Kun-Hsiang Lin</strong>, Chen-Min Kuo, Hung-Wei Tseng (*Corresponding authors)
