@@ -1,4 +1,14 @@
 main:
+  - title: "TriDF: Evaluating Perception, Detection, and Hallucination for Interpretable DeepFake Detection"
+    authors: Jian-Yu Jiang-Lin, Kang-Yang Huang, Ling Zou, Ling Lo, Sheng-Ping Yang, Yu-Wen Tseng, <strong>Kun-Hsiang Lin</strong>, Chia-Ling Chen, Yu-Ting Ta, Yan-Tsung Wang, Po-Ching Chen, Hongxia Xie, Hong-Han Shuai, Wen-Huang Cheng
+    conference_short: CVPR
+    conference: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Jun. 2026
+    # pdf: https://arxiv.org/pdf/2507.12060
+    # code: https://github.com/kunkunlin1221/InstructFLIP
+    # page: https://kunkunlin1221.github.io/InstructFLIP
+    image: ./assets/img/to_be_continued.png
+    # bibtex:
+
   - title: "InstructFLIP: Exploring Unified Vision-Language Model for Face Anti-spoofing"
     authors: <strong>Kun-Hsiang Lin</strong>, Yu-Wen Tseng, Kang-Yang Huang, Jhih-Ciang Wu, Wen-Huang Cheng* (*Corresponding authors)
     conference_short: ACMMM

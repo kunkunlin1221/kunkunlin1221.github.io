@@ -20,7 +20,8 @@ For more information, please download my [CV](./assets/files/Resume.pdf).
 
 ## News
 
-- **[Jul. 2025]** Our paper on face anti-spoofing with vision-language large models has been accepted to ACM Multimedia 2025.
+- **[Feb. 2026]** Our paper TriDF has been accepted to the IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2026.
+- **[Jul. 2025]** Our paper on face anti-spoofing with vision-language large models has been accepted to ACM Multimedia (MM) 2025.
 
 {% include_relative _includes/publications.md %}
 

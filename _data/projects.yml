@@ -1,12 +1,12 @@
 main:
-  - title: "Facekit: An integrated Python library for face analysis"
+  - title: "PyFace: An Integrated Python Package for Face Analysis"
     authors: <strong>Kun-Hsiang Lin</strong>
     conference_short: GitHub
-    code: https://github.com/DocsaidLab/Facekit
-    image: ./assets/img/facekit.jpg
+    code: https://github.com/DocsaidLab/PyFace
+    image: ./assets/img/pyface.jpg
     # notes: Deep learning module based on PyTorch
 
-  - title: "Capybara: Python toolkit for computer vision task"
+  - title: "Capybara: Python Toolkit for Computer Vision Tasks"
     authors: <strong>Kun-Hsiang Lin*</strong>, Ze Yuan* (*equal contribution)
     conference_short: GitHub
     code: https://github.com/DocsaidLab/Capybara
@@ -15,7 +15,7 @@ main:
     page: https://docsaid.org/docs/capybara/
     # notes: Image processing and useful toolkit written in Python
 
-  - title: "Chameleon: Python toolkit for developing AI models"
+  - title: "Chameleon: Python Toolkit for Developing AI Models"
     authors: <strong>Kun-Hsiang Lin*</strong>, Ze Yuan* (*equal contribution)
     conference_short: GitHub
     code: https://github.com/DocsaidLab/Chameleon
@@ -23,7 +23,7 @@ main:
     pypi: https://pypi.org/project/chameleon-docsaid/
     # notes: Deep learning module based on PyTorch
 
-  - title: "DocClassifier: Document image classification system"
+  - title: "DocClassifier: Document Image Classification System"
     authors: <strong>Kun-Hsiang Lin*</strong>, Ze Yuan* (*equal contribution)
     conference_short: GitHub
     code: https://github.com/DocsaidLab/DocClassifier
