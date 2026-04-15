@@ -1,6 +1,6 @@
 main:
   - title: "TriDF: Evaluating Perception, Detection, and Hallucination for Interpretable DeepFake Detection"
-    authors: Jian-Yu Jiang-Lin, Kang-Yang Huang, Ling Zou, Ling Lo, Sheng-Ping Yang, Yu-Wen Tseng, <strong>Kun-Hsiang Lin</strong>, Chia-Ling Chen, Yu-Ting Ta, Yan-Tsung Wang, Po-Ching Chen, Hongxia Xie, Hong-Han Shuai, Wen-Huang Cheng
+    authors: Jian-Yu Jiang-Lin†, Kang-Yang Huang†, Ling Zou†, Ling Lo, Sheng-Ping Yang, Yu-Wen Tseng, <strong>Kun-Hsiang Lin</strong>, Chia-Ling Chen, Yu-Ting Ta, Yan-Tsung Wang, Po-Ching Chen, Hongxia Xie, Hong-Han Shuai, Wen-Huang Cheng* (†equal contributions and *Corresponding authors)
     conference_short: CVPR
     conference: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Jun. 2026
     pdf: https://arxiv.org/pdf/2512.10652

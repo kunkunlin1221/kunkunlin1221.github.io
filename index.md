@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-With over 7 years of experience as a CV/AI engineer and researcher, I am currently pursuing a Ph.D. in Computer Science and Information Engineering at National Taiwan University. My academic journey began with traditional machine learning methods, including support vector machines and random forests for rainfall forecasting during my master’s studies. I later joined Academia Sinica, where I worked on deep learning–based spatial-temporal modeling and assisted with paper reviews for top-tier machine learning conferences.
+With over 7 years of experience in computer vision and AI, I am currently a Senior Computer Vision Research Engineer at Qualcomm and a Ph.D. candidate in Computer Science and Information Engineering at National Taiwan University. My academic journey began with traditional machine learning methods, including support vector machines and random forests for rainfall forecasting during my master’s studies. I later joined Academia Sinica, where I worked on deep learning–based spatial-temporal modeling and assisted with paper reviews for top-tier machine learning conferences.
 
 Following my research at Academia Sinica, I spent over five years in industry at Authme as an AI Team Lead and CV/ML Engineer. In this role, I led the development of end-to-end AI solutions for biometric security, OCR, and fraud detection, spanning algorithm design, C++ SDK development, cloud deployment, and MLOps. My work achieved top rankings in international evaluations and competitions, including CVPR, ICCV, and NIST FRTE.
 
@@ -20,6 +20,7 @@ For more information, please download my [CV](./assets/files/Resume.pdf).
 
 ## News
 
+- **[Apr. 2026]** Joined Qualcomm as a Senior Computer Vision Research Engineer.
 - **[Feb. 2026]** Our paper TriDF has been accepted to the IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2026.
 - **[Jul. 2025]** Our paper on face anti-spoofing with vision-language large models has been accepted to ACM Multimedia (MM) 2025.
 
