@@ -1,0 +1,51 @@
+<!--
+  Shared row for a publication or project.
+  Params:
+    include.item       — the data entry (from _data/publications.yml or projects.yml)
+    include.title_href — the URL the title links to (pdf for papers, code for projects)
+-->
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr">
+    {% if include.item.image %}
+    <img src="{{ include.item.image }}" class="teaser img-fluid z-depth-1" alt="{{ include.item.title | escape }}" loading="lazy" decoding="async" width="270" height="123">
+    {% if include.item.conference_short %}
+    <abbr class="badge">{{ include.item.conference_short }}</abbr>
+    {% endif %}
+    {% endif %}
+  </div>
+  <div class="col-sm-9">
+    <div class="title"><a href="{{ include.title_href }}">{{ include.item.title }}</a></div>
+    <div class="author">{{ include.item.authors }}</div>
+    {% if include.item.conference %}
+    <div class="periodical"><em>{{ include.item.conference }}</em></div>
+    {% endif %}
+    <div class="links">
+      {% if include.item.pdf %}
+      <a href="{{ include.item.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">PDF</a>
+      {% endif %}
+      {% if include.item.slide %}
+      <a href="{{ include.item.slide }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">Slide</a>
+      {% endif %}
+      {% if include.item.pypi %}
+      <a href="{{ include.item.pypi }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">PyPI</a>
+      {% endif %}
+      {% if include.item.code %}
+      <a href="{{ include.item.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">Code</a>
+      {% endif %}
+      {% if include.item.page %}
+      <a href="{{ include.item.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">Project Page</a>
+      {% endif %}
+      {% if include.item.bibtex %}
+      <a href="{{ include.item.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">BibTeX</a>
+      {% endif %}
+      {% if include.item.notes %}
+      <strong><i class="pub-note">{{ include.item.notes }}</i></strong>
+      {% endif %}
+      {% if include.item.others %}
+      {{ include.item.others }}
+      {% endif %}
+    </div>
+  </div>
+</div>
+</li>
