@@ -20,7 +20,7 @@ google_scholar: https://scholar.google.com/citations?user=aSIDVjkAAAAJ&hl=zh-TW
 cv_link: ./assets/files/Resume.pdf
 github_link: https://github.com/kunkunlin1221
 linkedin: https://www.linkedin.com/in/kun-4867b9180
-# orcid: https://orcid.org/0000-0000-0000-0000  # uncomment and fill in to show an ORCID icon and add it to structured data
+orcid: https://orcid.org/0009-0009-8040-979X # uncomment and fill in to show an ORCID icon and add it to structured data
 
 # Images (e.g., your profile picture and your website's favicon)
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively.
