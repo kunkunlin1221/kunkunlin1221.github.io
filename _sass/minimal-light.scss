@@ -19,40 +19,10 @@
 .social-icons a:last-child{margin-right:0}.social-icons a:hover{background-color:white;
     color:black;
     transform: scale(1.2)}
-    /*
-    .social-icons a:after {
-        content: '';
-        display: block;
-        margin: 0px;
-        height: 1px;
-        width: 0px;
-        background: transparent;
-        transition: width .5s ease, background-color .5s ease;
-      }
-      .social-icons a:hover:after {
-        width: 100%;
-        background: #337ab7;
-      }
-     */
 
 @media (prefers-color-scheme: dark) {.social-icons a:last-child{margin-right:0}.social-icons a:hover{background-color:#20212b;
     color:black;
-    transform: scale(1.2)} 
-    /*
-    .social-icons a:after {
-        content: '';
-        display: block;
-        margin: 0px;
-        height: 1px;
-        width: 0px;
-        background: transparent;
-        transition: width .5s ease, background-color .5s ease;
-      }
-    .social-icons a:hover:after {
-        width: 100%;
-        background: #a0b0ff;
-      }
-    */
+    transform: scale(1.2)}
 }
 
 .icon-button{
@@ -103,9 +73,19 @@
 .github span{
   background-color:#000}
 
-email {
+.email, email {
     font-size: 14px;
     font-family: "Ubuntu Mono";
+}
+
+.position {
+    font-size: 1.10rem;
+}
+
+.service-subhead {
+    font-size: 1.05rem;
+    font-weight: 600;
+    margin: 0 10px 8px 0;
 }
 
 .icon-button i{
@@ -218,9 +198,6 @@ papertitle {
         border-radius: 100%;
         width: 45%;
         padding: 20px;
-        // border: 1px solid #ddd;
-        // padding: 3px;
-        // box-shadow: 0 -1px 5px 1px rgba(200, 200, 200, 0.3);
       }
 
     #header .image.avatar {
@@ -270,12 +247,12 @@ h1 {
 }
 
 a {
-  color:#39c;
+  color:#006699;
   text-decoration:none;
 }
 
 a:hover {
-  color:#069;
+  color:#00496e;
 }
 
 @media (prefers-color-scheme: dark) {

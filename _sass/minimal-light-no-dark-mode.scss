@@ -81,9 +81,19 @@
 .github span{
   background-color:#000}
 
-email {
+.email, email {
     font-size: 14px;
     font-family: "Ubuntu Mono";
+}
+
+.position {
+    font-size: 1.10rem;
+}
+
+.service-subhead {
+    font-size: 1.05rem;
+    font-weight: 600;
+    margin: 0 10px 8px 0;
 }
 
 .icon-button i{
@@ -213,12 +223,12 @@ h1 {
 }
 
 a {
-  color:#39c;
+  color:#006699;
   text-decoration:none;
 }
 
 a:hover {
-  color:#069;
+  color:#00496e;
 }
 
 a small {
