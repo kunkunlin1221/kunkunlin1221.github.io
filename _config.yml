@@ -1,16 +1,18 @@
 # Basic Information
 title: Kun-Hsiang Lin
 position: Senior CV Research Engineer | Ph.D. Candidate
-affiliation: Qualcomm | NTU
+affiliation: Qualcomm, NTU
 # department: Communication and Multimedia Lab (CMLab)
 # group: AIMM Group
 email: utmostof9@gmail.com | jacklin@cmlab.csie.ntu.edu.tw
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: Kun-Hsiang Lin, kunkunlin1221, utmostof9
-description: I’m a Ph.D. candidate at National Taiwan University, part of the AIMM group in the Communication and Multimedia Lab (CMLab).
+keywords: Kun-Hsiang Lin, computer vision, vision-language models, multimodal large language models, face anti-spoofing, deepfake detection, biometric AI
+description: Kun-Hsiang Lin — Senior Computer Vision Research Engineer at Qualcomm and Ph.D. candidate at National Taiwan University, working on vision-language models, multimodal large language models, and biometric AI.
 canonical: https://kunkunlin1221.github.io/
+url: https://kunkunlin1221.github.io
+baseurl: ""
 
 # Links
 # If you don't need one of them, you may delete the corresponding line.
@@ -18,6 +20,7 @@ google_scholar: https://scholar.google.com/citations?user=aSIDVjkAAAAJ&hl=zh-TW
 cv_link: ./assets/files/Resume.pdf
 github_link: https://github.com/kunkunlin1221
 linkedin: https://www.linkedin.com/in/kun-4867b9180
+# orcid: https://orcid.org/0000-0000-0000-0000  # uncomment and fill in to show an ORCID icon and add it to structured data
 
 # Images (e.g., your profile picture and your website's favicon)
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively.
@@ -37,22 +40,23 @@ auto_dark_mode: true
 # You can use this option to choose between Serif or Sans Serif fonts.
 font: "Serif" # or "Sans Serif"
 
-# Google Analytics ID
-# Please remove this if you don't use Google Analytics
-google_analytics: UA-111540567-4
+# Google Analytics
+# Removed: the previous value was a dead Universal Analytics (UA-) property that
+# Google shut down in July 2023. To re-enable, add a GA4 Measurement ID:
+#   google_analytics: G-XXXXXXXXXX
 
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
 remote_theme: yaoyao-liu/minimal-light
+
+# Plugins (supported natively by GitHub Pages)
+plugins:
+  - jekyll-sitemap
 
 # The following files will be removed from the generated website.
 exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
-  - README_zh_Hans.md
-  - README_zh_Hant.md
-  - README_de.md
   - LICENSE
-  - minimal-light.gemspec
-  - html_source_file/
+  - CLAUDE.md
