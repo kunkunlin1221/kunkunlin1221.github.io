@@ -7,24 +7,24 @@ main:
     # notes: Deep learning module based on PyTorch
 
   - title: "Capybara: Python Toolkit for Computer Vision Tasks"
-    authors: <strong>Kun-Hsiang Lin*</strong>, Ze Yuan* (*equal contribution)
+    authors: <strong>Kun-Hsiang Lin*</strong>, Ze Yuan* (*Equal contribution)
     conference_short: GitHub
     code: https://github.com/DocsaidLab/Capybara
-    image: ./assets/img/capybara.webp
+    image: ./assets/img/capybara.jpg
     pypi: https://pypi.org/project/capybara-docsaid/
     page: https://docsaid.org/docs/capybara/
     # notes: Image processing and useful toolkit written in Python
 
   - title: "Chameleon: Python Toolkit for Developing AI Models"
-    authors: <strong>Kun-Hsiang Lin*</strong>, Ze Yuan* (*equal contribution)
+    authors: <strong>Kun-Hsiang Lin*</strong>, Ze Yuan* (*Equal contribution)
     conference_short: GitHub
     code: https://github.com/DocsaidLab/Chameleon
-    image: ./assets/img/chameleon.webp
+    image: ./assets/img/chameleon.jpg
     pypi: https://pypi.org/project/chameleon-docsaid/
     # notes: Deep learning module based on PyTorch
 
   - title: "DocClassifier: Document Image Classification System"
-    authors: <strong>Kun-Hsiang Lin*</strong>, Ze Yuan* (*equal contribution)
+    authors: <strong>Kun-Hsiang Lin*</strong>, Ze Yuan* (*Equal contribution)
     conference_short: GitHub
     code: https://github.com/DocsaidLab/DocClassifier
     image: ./assets/img/docclassifier.jpg
@@ -38,8 +38,8 @@ main:
     image: ./assets/img/face_detection.jpg
     # notes: Deep learning module based on PyTorch
 
-  - title: "Taiwan-LLM Tutor: Revolutionizing Taiwanese Secondary Education with Large Language Model."
-    authors: Jia-Wei Liao, Ji-Jia Wu, <strong>Kun-Hsiang Lin</strong>, and Kang-Yang Huang.
+  - title: "Taiwan-LLM Tutor: Revolutionizing Taiwanese Secondary Education with Large Language Models"
+    authors: Jia-Wei Liao, Ji-Jia Wu, <strong>Kun-Hsiang Lin</strong>, and Kang-Yang Huang
     conference_short: ADL
     conference: Applied Deep Learning Final Project, 2023
     code: https://github.com/jwliao1209/TWLLM-Tutor

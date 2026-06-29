@@ -1,6 +1,6 @@
 main:
   - title: "TriDF: Evaluating Perception, Detection, and Hallucination for Interpretable DeepFake Detection"
-    authors: Jian-Yu Jiang-Lin†, Kang-Yang Huang†, Ling Zou†, Ling Lo, Sheng-Ping Yang, Yu-Wen Tseng, <strong>Kun-Hsiang Lin</strong>, Chia-Ling Chen, Yu-Ting Ta, Yan-Tsung Wang, Po-Ching Chen, Hongxia Xie, Hong-Han Shuai, Wen-Huang Cheng* (†equal contributions and *Corresponding authors)
+    authors: Jian-Yu Jiang-Lin†, Kang-Yang Huang†, Ling Zou†, Ling Lo, Sheng-Ping Yang, Yu-Wen Tseng, <strong>Kun-Hsiang Lin</strong>, Chia-Ling Chen, Yu-Ting Ta, Yan-Tsung Wang, Po-Ching Chen, Hongxia Xie, Hong-Han Shuai, Wen-Huang Cheng* (†Equal contribution, *Corresponding author)
     conference_short: CVPR
     conference: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Jun. 2026
     pdf: https://arxiv.org/pdf/2512.10652
@@ -10,7 +10,7 @@ main:
     # bibtex:
 
   - title: "InstructFLIP: Exploring Unified Vision-Language Model for Face Anti-spoofing"
-    authors: <strong>Kun-Hsiang Lin</strong>, Yu-Wen Tseng, Kang-Yang Huang, Jhih-Ciang Wu, Wen-Huang Cheng* (*Corresponding authors)
+    authors: <strong>Kun-Hsiang Lin</strong>, Yu-Wen Tseng, Kang-Yang Huang, Jhih-Ciang Wu, Wen-Huang Cheng* (*Corresponding author)
     conference_short: ACMMM
     conference: ACM International Conference on Multimedia (MM), Oct. 2025
     pdf: https://arxiv.org/pdf/2507.12060
@@ -21,7 +21,7 @@ main:
     notes: Oral presentation
 
   - title: "Predictor selection method for the construction of SVM-based typhoon rainfall forecasting models using a non-dominated sorting genetic algorithm"
-    authors: Tao-Chang Yang, Pao-Shan Yu*, <strong>Kun-Hsiang Lin</strong>, Chen-Min Kuo, Hung-Wei Tseng (*Corresponding authors)
+    authors: Tao-Chang Yang, Pao-Shan Yu*, <strong>Kun-Hsiang Lin</strong>, Chen-Min Kuo, Hung-Wei Tseng (*Corresponding author)
     conference_short: MA
     conference: Meteorological Applications, Oct. 2018, Vol. 25, pp. 510–522
     pdf: https://rmets.onlinelibrary.wiley.com/doi/epdf/10.1002/met.1717
@@ -29,7 +29,7 @@ main:
     notes: SCI Journal
 
   - title: "An Acceptable Framework to Predict the Flood Stage Under Climate Change Scenarios - A Case Study in Taipei Basin"
-    authors: Pei-Yu Wu*, <strong>Kun-Hsiang Lin</strong> (*Corresponding authors)
+    authors: Pei-Yu Wu*, <strong>Kun-Hsiang Lin</strong> (*Corresponding author)
     conference_short: AOGS
     conference: Asia Oceania Geosciences Society Annual Meeting (AOGS), Jul. 2017
     image: ./assets/img/2017_aogs.jpg
@@ -37,7 +37,7 @@ main:
     # notes: Poster presentation
 
   - title: "A Comparison of Hourly Typhoon Rainfall Forecasting Models Based on Support Vector Machines and Random Forests with Different Predictor Sets"
-    authors: <strong>Kun-Hsiang Lin</strong>, Hung-Wei Tseng, Chen-Min Kuo, Tao-Chang Yang, Pao-Shan Yu* (*Corresponding authors)
+    authors: <strong>Kun-Hsiang Lin</strong>, Hung-Wei Tseng, Chen-Min Kuo, Tao-Chang Yang, Pao-Shan Yu* (*Corresponding author)
     conference_short: EGU
     conference: European Geosciences Union (EGU), Apr. 2016
     pdf: ./assets/files/2016_egu.pdf
@@ -45,7 +45,7 @@ main:
     notes: Oral presentation
 
   - title: "Application of Random Forest and Support Vector Machine in Rainfall and River Stage Forecasting"
-    authors: <strong>Kun-Hsiang Lin</strong>, Hung-Wei Tseng, Chen-Min Kuo, Tao-Chang Yang, Pao-Shan Yu* (*Corresponding authors)
+    authors: <strong>Kun-Hsiang Lin</strong>, Hung-Wei Tseng, Chen-Min Kuo, Tao-Chang Yang, Pao-Shan Yu* (*Corresponding author)
     conference_short: CCACHE
     conference: Conference on Computer Applications in Civil and Hydraulic Engineering (CCACHE), Sep. 2015
     image: ./assets/img/2015_CCACHE.jpg
@@ -53,7 +53,7 @@ main:
     notes: Oral presentation, Best student paper award
 
   - title: "A Comparison of Random Forests and Support Vector Machine in River Stage Forecasting"
-    authors: <strong>Kun-Hsiang Lin</strong>, Hung-Wei Tseng, Chen-Min Kuo, Tao-Chang Yang, Pao-Shan Yu* (*Corresponding authors)
+    authors: <strong>Kun-Hsiang Lin</strong>, Hung-Wei Tseng, Chen-Min Kuo, Tao-Chang Yang, Pao-Shan Yu* (*Corresponding author)
     conference_short: AOGS
     conference: Asia Oceania Geosciences Society Annual Meeting (AOGS), Jul. 2015
     pdf: ./assets/files/2015_aogs.pdf
